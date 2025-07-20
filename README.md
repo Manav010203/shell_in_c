@@ -9,4 +9,4 @@ after compiling
 
 for example commands
 * ls -l
-* exho "hello"
+* echo "hello"
