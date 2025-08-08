@@ -1,4 +1,6 @@
 # shell_in_c
+Basic shell in C. 
+
 for compiling use command
 
 ""gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
